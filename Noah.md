@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sidepage
-permalink: /sidepage/
+title: Noah
+permalink: /noah/
 ---
 
 Lauren is annoying.
