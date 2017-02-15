@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practice
-permalink: /practice/
+title: HTML Practice
+permalink: /html_practice/
 ---
 <html>
 Hello my name is <strong>Brian </strong>and I am a human.
