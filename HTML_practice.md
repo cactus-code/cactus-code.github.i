@@ -7,4 +7,6 @@ permalink: /html_practice/
 <p>Hello my name is <strong>Brian </strong>and I am a human.
 <strong>I think.</strong></p>
 
-<img src="https://static.esea.net/global/images/users/1029564.1472750402.png" />
+<a href="http://cactus-code.tk/">
+  <img src="https://static.esea.net/global/images/users/1029564.1472750402.png" />
+  </a>
