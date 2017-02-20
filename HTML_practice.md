@@ -10,5 +10,6 @@ permalink: /html_practice/
 <a href="http://cactus-code.tk/">
   <img src="https://static.esea.net/global/images/users/1029564.1472750402.png" />
   </a>
-  
   <p style="color:red; font-size:40px">This is colour practice.</p>
+  <p style="color:blue; font-size:30px">This is colour and size practice.</p>
+  </html>
