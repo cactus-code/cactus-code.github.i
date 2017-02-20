@@ -4,7 +4,7 @@ title: HTML Practice
 permalink: /html_practice/
 ---
 <html>
-<p>Hello my name is <strong>Brian </strong>and I am a <em>human</em>.
+<p style="text-decoration: underline">Hello my name is <strong>Brian </strong>and I am a <em>human</em>.
 <strong>I think.</strong></p>
 
 <a href="http://cactus-code.tk/">
