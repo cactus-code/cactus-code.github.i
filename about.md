@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h2>Hi, I'm a high school programmer who has experience in these programming languages:</h2>
+<h3>Hi, I'm a high school programmer who has experience in these programming languages:</h3>
 <ol>
 <li>Python</li>
 <li>C#</li>
