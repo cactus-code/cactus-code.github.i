@@ -12,4 +12,8 @@ permalink: /html_practice/
   </a>
   <p style="color:red; font-size:40px">This is colour practice.</p>
   <p style="color:blue; font-size:30px">This is colour and size practice.</p>
+  
+  <p style="text-align: left">Practicing</p>
+  <p style="text-align: center">Text</p>
+  <p style="text-align: right">Alignment</p>
   </html>
