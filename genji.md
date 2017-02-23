@@ -8,7 +8,7 @@ permalink: /genji/
 		<title>Genji</title>
 	</head>
 	<body>
-	<img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg"
+	    <img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg">
 	    <p>Hello, My name is <strong>Genji</strong>. I am a japanese male who has robotic parts.</p>
 	    <ul>
 	        <li style="color:red ; font-size:30px ; font-family: Arial">Interests</li>
