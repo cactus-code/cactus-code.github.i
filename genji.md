@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+layout: page
+title: Genji
+permalink: /genji/
+---
 <html>
 	<head>
 		<title>Genji</title>
