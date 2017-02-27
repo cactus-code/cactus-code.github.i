@@ -17,11 +17,13 @@ permalink: /html_practice/
   <p style="text-align: center">Text</p>
   <p style="text-align: right">Alignment</p>
   
-  <tr>
-    <td>Table</td>
-  </tr>
-  <tr>
-    <td>Practice</td>
-  </tr>
-  
-</html>
+  <table border="1px">
+    <tr>
+      <td>Table</td>
+    </tr>
+    <tr>
+      <td>Practice</td>
+    </tr>
+    </table>
+    
+ </html>
