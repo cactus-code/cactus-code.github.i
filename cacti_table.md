@@ -1,5 +1,8 @@
-
-
+---
+layout: page
+title: Cacti Table
+permalink: /cacti_table/
+---
 
 <html>
 	<head>
@@ -7,9 +10,9 @@
 		<title>My Photo Page</title>
 	</head>
 	<body>
-	    <table border:"1px">
+	    <table border="1px">
 	        <thead>
-	            <th colspan:"3">Cactus Photos</th>
+	            <th colspan="3">Cactus Photos</th>
 	        </thead>
 	        <tr>
 	            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Singapore_Botanic_Gardens_Cactus_Garden_2.jpg/225px-Singapore_Botanic_Gardens_Cactus_Garden_2.jpg" /></td>
