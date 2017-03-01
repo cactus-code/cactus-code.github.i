@@ -15,7 +15,7 @@ permalink: /cacti_table/
 	            <th colspan="3">Cactus Photos</th>
 	        </thead>
 	        <tr>
-	            <td width:100px; height:100px><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Singapore_Botanic_Gardens_Cactus_Garden_2.jpg/225px-Singapore_Botanic_Gardens_Cactus_Garden_2.jpg" /></td>
+	            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Singapore_Botanic_Gardens_Cactus_Garden_2.jpg/225px-Singapore_Botanic_Gardens_Cactus_Garden_2.jpg" /></td>
 	            <td><img src="http://www.himhministries.com/uploads/2/5/6/8/25688620/3168713_orig.jpg" /></td>
 	            <td><img src="https://static.esea.net/global/images/users/1029564.1472750402.png" /></td>
 	        </tr>
